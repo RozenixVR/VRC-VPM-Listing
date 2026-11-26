@@ -1,7 +1,7 @@
 {
     "name":"Rozenix's VPM Listing",
     "id":"com.rozenix.vpm",
-    "url":"https://rozenix.github.io/vpm-listing/index.json",
+    "url":"https://vpm.rozenix.com/index.json",
     "author":{
         "name":"Rozenix",
         "url":"https://rozenix.com"
