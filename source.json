@@ -1,24 +1,24 @@
 {
-    "name":"DrBlackRat's VPM Listing",
-    "id":"xyz.drblackrat.vpm",
-    "url":"https://drblackrat.github.io/vpm-listing/index.json",
+    "name":"Rozenix's VPM Listing",
+    "id":"com.rozenix.vpm",
+    "url":"https://rozenix.github.io/vpm-listing/index.json",
     "author":{
-        "name":"DrBlackRat",
-        "url":"https://drblackrat.xyz"
+        "name":"Rozenix",
+        "url":"https://rozenix.xyz"
     },
-    "description":"A listing of all my packages available for use in the VRChat Creator Companion!",
+    "description":"A listing of all my packages available for use in the VRChat Creator Companion! (Formerly known as DrBlackRat's VPM Listing)",
     "infoLink":{
-        "url":"https://github.com/DrBlackRat/vpm-listing/",
+        "url":"https://github.com/RozenixVR/vpm-listing/",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
         "githubRepos":[
-        "DrBlackRat/VRC-ModernUIs",
-        "DrBlackRat/VRC-ModernUIs-Integration-AccessTXL",
-        "DrBlackRat/VRC-ModernUIs-Integration-DisBridge",
-        "DrBlackRat/VRC-ModernUIs-Integration-VRCLinking",
-        "DrBlackRat/VRC-Secure-Networking",
-        "DrBlackRat/VRC-Picture-Loader",
-        "DrBlackRat/VRC-Simple-String-Loader",
+        "RozenixVR/VRC-ModernUIs",
+        "RozenixVR/VRC-ModernUIs-Integration-AccessTXL",
+        "RozenixVR/VRC-ModernUIs-Integration-DisBridge",
+        "RozenixVR/VRC-ModernUIs-Integration-VRCLinking",
+        "RozenixVR/VRC-Secure-Networking",
+        "RozenixVR/VRC-Picture-Loader",
+        "RozenixVR/VRC-Simple-String-Loader",
     ]
 }
